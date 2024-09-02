@@ -1,4 +1,5 @@
 # weibo-scrapy
+(better opened with code)
 第一，pip安装Scrapy。
 
 第二，cmd命令行输入scrapy startproject weibo
